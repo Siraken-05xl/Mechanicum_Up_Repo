@@ -253,7 +253,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 128
-  dashSpeed: 10
+  dashSpeed: 15
   dashDuration: 0.18
   dashCooldown: 0.7
   allowAirDash: 1
